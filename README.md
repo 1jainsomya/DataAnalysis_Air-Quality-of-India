@@ -1,4 +1,4 @@
-# DataAnalyis_Air-Quality-of-India
+# DataAnalysis_Air-Quality-of-India
 Exploratory data analysis of India's air pollution 
 
 
