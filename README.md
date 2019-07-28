@@ -6,6 +6,7 @@ Air pollution in India is a serious issue with the major sources being fuelwood 
 
 
 Dataset
+
 This data is combined(across the years and states) and largely clean version of the Historical Daily Ambient Air Quality Data released by the Ministry of Environment and Forests and Central Pollution Control Board of India under the National Data Sharing and Accessibility Policy (NDSAP).
 link:https://data.gov.in/catalog/historical-daily-ambient-air-quality-data?filters%5Bfield_catalog_reference%5D=1140581&format=json&offset=0&limit=6&sort%5Bcreated%5D=desc
 
